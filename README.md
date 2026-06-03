@@ -1,3 +1,7 @@
+# Check out Glitch Club at UCLA!
+
+https://glitchclub.org
+
 # 🧠 Browsing Agent
 
 An AI inner voice that lives in your browser. It watches what you read, speaks observations, answers your questions, highlights content on screen, and reacts to your browsing in real time — powered by **Gemini Live**.
